@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: shiva
+Build-Jdk: 15.0.1
+Implementation-Title: naming-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.pool
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://spring.io/projects/spring-boot/naming-server
+Created-By: Maven Integration for Eclipse
+
